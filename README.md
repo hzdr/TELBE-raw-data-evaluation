@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hzdr/TELBE-raw-data-evaluation/HEAD)
+[![Binder](https://binder.notebooks.egi.eu/badge_logo.svg)](https://binder.notebooks.egi.eu/v2/gh/hzdr/TELBE-raw-data-evaluation/main?labpath=sorting_binning.ipynb)
+
 
 # TELBE-raw-data-evaluation
 
