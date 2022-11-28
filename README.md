@@ -1,6 +1,6 @@
 EGI Binder Insance: [![Binder](https://binder.notebooks.egi.eu/badge_logo.svg)](https://binder.notebooks.egi.eu/v2/gh/hzdr/TELBE-raw-data-evaluation/main?labpath=sorting_binning.ipynb)
 
-HIFIS jupyter service [![Binder]([https://binder.notebooks.egi.eu/badge_logo.svg)](https://hifis-gpu.hzdr.de/service/submit?form_cpus=1&form_gpus=0&form_hours=3&form_mem=4750&form_tasks=1&form_nodes=1&form_notebook=sorting_binning.ipynb&form_git=https%3A%2F%2Fgithub.com%2Fhzdr%2FTELBE-raw-data-evaluation&service=Jupyter&)
+HIFIS jupyter service: [![Binder](https://binder.notebooks.egi.eu/badge_logo.svg)](https://hifis-gpu.hzdr.de/service/submit?form_cpus=1&form_gpus=0&form_hours=3&form_mem=4750&form_tasks=1&form_nodes=1&form_notebook=sorting_binning.ipynb&form_git=https%3A%2F%2Fgithub.com%2Fhzdr%2FTELBE-raw-data-evaluation&service=Jupyter&)
 
 
 # TELBE-raw-data-evaluation
