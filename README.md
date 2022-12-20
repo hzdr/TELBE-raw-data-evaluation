@@ -12,6 +12,6 @@ Parts of the code are parallelized and can run on multiple cores. The execution 
 
 # Documentation of the analysis workflow
 
-The overall analysis workflow with scientific background and datasets is available at [](https://pan-training.eu/workflows/telbe).
+The overall analysis workflow with scientific background and datasets is available at [PaN-training.eu](https://pan-training.eu/workflows/telbe).
 
 ![](training_workflow.png)
